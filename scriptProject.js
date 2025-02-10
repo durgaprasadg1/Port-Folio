@@ -42,3 +42,11 @@ document.getElementById("pr-5").addEventListener("mouseleave", () => {
   WriteHere.textContent = " ";
     
 });
+document.getElementById("pr-6").addEventListener("mouseover", () => {
+  WriteHere.textContent = "The To-Do-List takes the task here & stores that task along with timing and state of completion. If completed the get checked else not.";
+   
+});
+document.getElementById("pr-6").addEventListener("mouseleave", () => {
+  WriteHere.textContent = " ";
+    
+});
